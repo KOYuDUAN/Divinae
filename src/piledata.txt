@@ -1,0 +1,75 @@
+Apocalypse	daylight	天启卡
+Apocalypse	darkness	天启卡
+Apocalypse	nihility	天启卡
+
+Archbishop_f2	daylight	11000	获取当前信徒个数的行动点	2
+Archbishop_f2	daylight	11000	获取当前信徒个数的行动点	2
+Archbishop_f2	darkness	11000	获取当前信徒个数的行动点	2
+Archbishop_f2	darkness	11000	获取当前信徒个数的行动点	2
+Archbishop_f2	nihility	11000	获取当前信徒个数的行动点	2
+
+Archbishop_f3	daylight	10100	中央信徒中非本卡起源的会被弃置	3
+Archbishop_f3	daylight	10100	中央信徒中非本卡起源的会被弃置	3
+Archbishop_f3	darkness	10100	中央信徒中非本卡起源的会被弃置	3
+Archbishop_f3	darkness	10100	中央信徒中非本卡起源的会被弃置	3
+Archbishop_f3	nihility	10100	中央信徒中非本卡起源的会被弃置	3
+
+Archbishop_f5	daylight	10010	获取其他某一个玩家的大主教卡及其信徒	4
+Archbishop_f5	daylight	10010	获取其他某一个玩家的大主教卡及其信徒	4
+Archbishop_f5	darkness	10010	获取其他某一个玩家的大主教卡及其信徒	4
+Archbishop_f5	darkness	10010	获取其他某一个玩家的大主教卡及其信徒	4
+Archbishop_f5	nihility	10010	获取其他某一个玩家的大主教卡及其信徒	4
+
+Believer_f1	daylight	10011	获得此卡起源的行动点	1
+Believer_f1	daylight	01011	获得此卡起源的行动点	1
+Believer_f1	daylight	10011	获得此卡起源的行动点	1
+Believer_f1	daylight	10110	获得此卡起源的行动点	1
+Believer_f1	daylight	10101	获得此卡起源的行动点	1
+
+Believer_f1	darkness	10011	获得此卡起源的行动点	1
+Believer_f1	darkness	01011	获得此卡起源的行动点	1
+Believer_f1	darkness	10101	获得此卡起源的行动点	1
+Believer_f1	darkness	11001	获得此卡起源的行动点	1
+Believer_f1	darkness	10101	获得此卡起源的行动点	1
+
+Believer_f1	nihility	10011	获得此卡起源的行动点	1
+Believer_f1	nihility	01011	获得此卡起源的行动点	1
+Believer_f1	nihility	10101	获得此卡起源的行动点	1
+Believer_f1	nihility	11001	获得此卡起源的行动点	1
+Believer_f1	nihility	10011	获得此卡起源的行动点	1
+
+Believer_f2	daylight	01011	获得某一玩家的至多两张手牌	2
+Believer_f2	daylight	10011	获得某一玩家的至多两张手牌	2
+Believer_f2	daylight	10011	获得某一玩家的至多两张手牌	2
+
+Believer_f2	darkness	01011	获得某一玩家的至多两张手牌	2
+Believer_f2	darkness	10011	获得某一玩家的至多两张手牌	2
+Believer_f2	darkness	10101	获得某一玩家的至多两张手牌	2
+
+Believer_f2	nihility	01011	获得某一玩家的至多两张手牌	2
+Believer_f2	nihility	10011	获得某一玩家的至多两张手牌	2
+Believer_f2	nihility	10101	获得某一玩家的至多两张手牌	2
+
+Believer_f4	daylight	01011	重新掷骰子结算行动点	3
+Believer_f4	darkness	10011	重新掷骰子结算行动点	3
+Believer_f4	nihility	10101	重新掷骰子结算行动点	3
+
+
+
+Rescue_f1	nihility	解围1 获得某一玩家的至多3手牌
+Rescue_f2	nihility	解围2 获取其他某一个玩家的大主教卡及其信徒
+Rescue_f4	nihility	解围3 摧毁一张大主教，其信徒回到牌桌中央
+
+Rescue_f1	nihility	解围1 获得某一玩家的至多3手牌
+Rescue_f2	nihility	解围2 获取其他某一个玩家的大主教卡及其信徒
+Rescue_f4	nihility	解围3 摧毁一张大主教，其信徒回到牌桌中央
+
+Rescue_f1	nihility	解围1 获得某一玩家的至多3手牌
+Rescue_f2	nihility	解围2 获取其他某一个玩家的大主教卡及其信徒
+Rescue_f4	nihility	解围3 摧毁一张大主教，其信徒回到牌桌中央
+
+
+Rescue_f3	使卡牌无效化
+Rescue_f3	使卡牌无效化
+Rescue_f3	使卡牌无效化
+
